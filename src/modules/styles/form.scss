@@ -1,0 +1,14 @@
+$primary-color: #e98323;
+
+.form-section {
+	display: flex;
+	align-items: 'center';
+	justify-content: center;
+}
+
+.title {
+	font-size: 30px;
+	font-weight: '600';
+	text-align: center;
+	color: $primary-color;
+}
